@@ -1,8 +1,8 @@
-# projeto-questnews
+# Projeto QuestNews
 
 > A Vue.js project
 
-## Build Setup
+## Configuração para build
 
 ``` bash
 # install dependencies
