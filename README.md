@@ -9,6 +9,7 @@
 
 ## Vue.js
 ## Vue Router
+## Axios
 ## Pure CSS
 ## Hackernews API
 ## HTML
