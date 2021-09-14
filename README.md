@@ -5,7 +5,7 @@
 
 ## Criar uma página que exibisse ao menos 10 notícias por meio de integração com a HackerNews/API
 
-# Stacks utilizadas:
+# Stack utilizada:
 
 ## Vue.js
 ## Vue Router
